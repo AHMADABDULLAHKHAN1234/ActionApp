@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActionApp</string>
+    <string name="app_tagline">Connect. Search. Communicate.</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_message">Type your message…</string>
+    <string name="hint_search">Search the web…</string>
+    <string name="hint_dial">Number to dial</string>
+    <string name="btn_send">Send SMS</string>
+    <string name="btn_view">Web Search</string>
+    <string name="btn_dial">Dial Up</string>
+    <string name="history">History</string>
+    <string name="no_history">No actions yet</string>
+</resources>

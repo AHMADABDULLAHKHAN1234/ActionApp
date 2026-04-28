@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0A0A0A</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent">#00E5FF</color>
+    <color name="accent_dark">#0097A7</color>
+    <color name="surface">#141414</color>
+    <color name="card">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9E9E9E</color>
+    <color name="success">#00C853</color>
+    <color name="error">#FF1744</color>
+    <color name="send_color">#00E676</color>
+    <color name="view_color">#00E5FF</color>
+    <color name="dial_color">#FF6D00</color>
+</resources>
